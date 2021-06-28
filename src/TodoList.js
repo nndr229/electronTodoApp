@@ -167,8 +167,8 @@ function TodoList(props) {
 									<ListItemIcon>
 										<Checkbox
 											// edge='start'
-											checked={checked.indexOf(idx) !== -1}
-											tabIndex={-1}
+// 											checked={checked.indexOf(idx) !== -1}
+// 											tabIndex={-1}
 											// disableRipple
 											inputProps={{ 'aria-labelledby': labelId }}
 										/>
